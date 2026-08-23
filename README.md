@@ -208,7 +208,7 @@ Also check out https://github.com/facebook/docusaurus/blob/xyztest/website/src/d
 - [irosyadi/gitbook](https://github.com/irosyadi/gitbook) - 
 - [vixkram/OSINTBox-data](https://github.com/vixkram/OSINTBox-data) - Community-driven repository of OSINT tools and resources.
 - [mariosantella/osint-resources](https://github.com/mariosantella/osint-resources) - json-list-of-osint-resources
-- [AhmedKamal/awesome-Islam](https://github.com/AhmedKamal/awesome-Islam) - A curated list of awesome islam related projects, frameworks, resources and other awesomeness.
+- [AhmedKamal/awesome-Islam](https://github.com/AhmedKamal/awesome-Islam) - A curated list of awesome islam related projects, frameworks, resources and other awesomeness. (tip: type https://islamhouse.com/ar/audios/ar/1?sort=downloads to view the most popular islamic audios)
 - [rumca-js/RSS-Link-Database-2026](https://github.com/rumca-js/RSS-Link-Database-2026) - 
 - [rumca-js/RSS-Link-Database-2025](https://github.com/rumca-js/RSS-Link-Database-2025) - 
 - [viewlist-net/plushub](https://github.com/viewlist-net/plushub) - Your Ultimate High Rated Content Hub!
