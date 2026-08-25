@@ -316,7 +316,7 @@ But be careful ⚠️, not all websites are safe!
 - [swrdfgd/RandomWords2](https://github.com/swrdfgd/RandomWords2) - 
 - [na-na-hi/renget](https://github.com/na-na-hi/renget) - rentry download script
 
-## Conflict Support
+## Conflict & Humanitarian Support
 - [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine) - A curated list of Palestine and Palestinian-Israeli conflict resources.
 - [josefsbreakfast/Polaris-Protocol](https://github.com/josefsbreakfast/Polaris-Protocol) - Survivor-authored cybernetic knowledge architecture mapping containment across bodies, information, institutions, and power. An orientation system, teaching ecology, and long-horizon continuity projec
 - [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner) - Simply setup banner for websites to show support for Palestinians.
