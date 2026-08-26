@@ -63,14 +63,22 @@ But be careful ⚠️, not all websites are safe!
 ## Privacy Guides
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [bibanon/4chan.doc](https://github.com/bibanon/4chan.doc) - A decompiled version of ThrustVect's impressive 4chan.doc report, to Markdown and Mediawiki. Meant for eventual integration into the 4chan Chronicle (Wikibook).
+- [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。 More than 1700 open source tools for now. Post incoming.
 - [bkil/freedom-fighters](https://github.com/bkil/freedom-fighters) - mirror of https://gitlab.com/bkil/freedom-fighters
 - [m1lkweed/nomad-guide](https://github.com/m1lkweed/nomad-guide) - A list of no-registration sites for digital nomads
 - [AfnanBinAbbas/PrivaDB](https://github.com/AfnanBinAbbas/PrivaDB) - Every website ask about cookies if user allows or denies them, but IndexedDB has no popup, it's on by default, so sites quietly send your data to trackers. Our tool (using Project Foxhound) shows whic
 
 ## Blogs
 - [KTibow/ktibow.github.io](https://github.com/KTibow/ktibow.github.io) - kendell.dev
-- [RedHotUnicorn/src](https://github.com/RedHotUnicorn/src) - 
-- [Animeshz/site](https://github.com/Animeshz/site) - (Home | Blog | Notes | Projects | Reflect Back)
+- [RedHotUnicorn/src](https://github.com/RedHotUnicorn/src) - redhotunicorn.github.io/src
+- [Animeshz/site](https://github.com/Animeshz/site) - (Home | Blog | Notes | Projects | Reflect Back) animeshz.github.io/site
+- [benchristelcom/benchristelcom.github.io](https://github.com/benchristelcom/benchristelcom.github.io) - website benchristelcom.github.io
+- [Spike-Leung/taxodium](https://github.com/Spike-Leung/taxodium) - My blog taxodium.ink
+- [twonfi/twonum.org](https://github.com/twonfi/twonum.org) - Personal website www.twonum.org
+- [ProbablyIdiot/probablysomething](https://github.com/ProbablyIdiot/probablysomething) - probablysomething.co.uk
+- [doqmeat/doqmeat.com](https://github.com/doqmeat/doqmeat.com) - repository of my personal website doqmeat.com
+- [edideaur/edideaur.works](https://github.com/edideaur/edideaur.works) - edideaur.works
+- [w3teal/weblog.js](https://github.com/w3teal/weblog.js) - w3teal.is-a.dev
 
 ## Wikis
 - [indieweb/wiki](https://github.com/indieweb/wiki) - Wiki backup and issue tracking for indieweb.org
@@ -208,6 +216,7 @@ But be careful ⚠️, not all websites are safe!
 - [stnert/the-supreme-art-of-cyberwar](https://github.com/stnert/the-supreme-art-of-cyberwar) - Repository containing content about the supreme art of cyberwarfare in parallel dimensions: Surveillance, cybersecurity, and how privacy is a paradoxical concept nowadays.
 - [MMachado05/floss-alternatives](https://github.com/MMachado05/floss-alternatives) - A list of free/libre open-source software alternatives to popular proprietary softwares
 - [TeamStarWolf/TeamStarWolf](https://github.com/TeamStarWolf/TeamStarWolf) - GitHub profile README for TeamStarWolf. (tip: it actually contains resources)
+- [scottsweb/indieweb-boost](https://github.com/scottsweb/indieweb-boost) - ✅ Give your IndieWeb site a little boost.
 
 ## CVE Resources
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
