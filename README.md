@@ -386,6 +386,7 @@ But be careful ⚠️, not all websites are safe!
 - [Amal-David/docingest](https://github.com/Amal-David/docingest) - Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents.
 
 ## Miscellaneous
+- [ivxvm/tha-game](https://github.com/ivxvm/tha-game) - Templar's Hollow Alpha (Game) arvel.itch.io/templars-hollow-alpha
 - [AlexandriaDAO/core](https://github.com/AlexandriaDAO/core) - 
 - [squaresLab/idioms](https://github.com/squaresLab/idioms) - 
 
