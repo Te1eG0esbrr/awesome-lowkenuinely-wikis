@@ -6,6 +6,7 @@
 Big W for Uvacoder/uvacodernotes-4261 and jubilancy/jubilancy.github.io and lovmoon3k/c0d3bl0ck-obsidian for including nearly everything i searched for (some repo descriptions are cut-off maybe because of text limit) ✌️\
 Also check out https://web.archive.org/web/20260130103652/https://github.com/whoisdsmith (he extended Killshot1337x/BOOKMRKS-MTHRFCKR and kept it updated but idk what happened to his github profile). Btw thank you guys for making those goated repos 🔥 and to github developers for the code search feature ❤️\
 Feel free to recommend repos by making an issue or a pull request 😄\
+Small tip: in youtube.com or inv.nadeko.net you can search for all playlists that contain specific videos (example: "video1" "video2" or even: "keyword1" "video1") and filter the results by playlists\
 But be careful ⚠️, not all websites are safe!
 
 # Index
