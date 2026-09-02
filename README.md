@@ -6,7 +6,7 @@
 Big W for Uvacoder/uvacodernotes-4261 and jubilancy/jubilancy.github.io and lovmoon3k/c0d3bl0ck-obsidian for including nearly everything i searched for (some repo descriptions are cut-off maybe because of text limit) ✌️\
 Also check out https://web.archive.org/web/20260130103652/https://github.com/whoisdsmith (he extended Killshot1337x/BOOKMRKS-MTHRFCKR and kept it updated but idk what happened to his github profile). Btw thank you guys for making those goated repos 🔥 and to github developers for the code search feature ❤️\
 Feel free to recommend repos by making an issue or a pull request 😄\
-Small tip: in youtube.com or inv.nadeko.net you can search for all playlists that contain specific videos (example: "video1" "video2" or even: "keyword1" "video1") and filter the results by playlists\
+Small tip: in youtube.com or inv.nadeko.net you can search for all playlists that contain specific videos (example: "video1" "video2" or even: "keyword1" "video1") and filter the results by playlists 📺\
 But be careful ⚠️, not all websites are safe!
 
 # Index
@@ -20,10 +20,12 @@ But be careful ⚠️, not all websites are safe!
 - [Digital Gardens & Knowledge Hubs](#digital-gardens--knowledge-hubs)
 - [Digital Gardening Resources](#digital-gardening-resources)
 - [Knowledge of Knowledge](#knowledge-of-knowledge)
+- [Webrings](#webrings)
 - [Website Templates](#website-templates)
 - [Everything about Cybersecurity](#everything-about-cybersecurity)
 - [Awesome Lists about Cybersecurity](#awesome-lists-about-cybersecurity)
 - [Researching Resources](#researching-resources)
+- [Family & Genealogy Resources](#family--genealogy-resources)
 - [Cybersecurity Tools](#cybersecurity-tools)
 - [Bug Bounty Resources](#bug-bounty-resources)
 - [OSINT Resources](#osint-resources)
@@ -38,6 +40,7 @@ But be careful ⚠️, not all websites are safe!
 - [Data Maps](#data-maps)
 - [Self Hosting & Self Hosted](#self-hosting--self-hosted)
 - [Archiving Resources](#archiving-resources)
+- [General Indie Websites](#general-indie-websites)
 - [Discord](#discord)
 - [Twitter & Hacker News](#twitter--hacker-news)
 - [Obsidian](#obsidian)
@@ -63,6 +66,7 @@ But be careful ⚠️, not all websites are safe!
 
 ## Privacy Guides
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [imlauer/imlauer.github.io](https://github.com/imlauer/imlauer.github.io) - 
 - [bibanon/4chan.doc](https://github.com/bibanon/4chan.doc) - A decompiled version of ThrustVect's impressive 4chan.doc report, to Markdown and Mediawiki. Meant for eventual integration into the 4chan Chronicle (Wikibook).
 - [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。 More than 1700 open source tools for now. Post incoming.
 - [bkil/freedom-fighters](https://github.com/bkil/freedom-fighters) - mirror of https://gitlab.com/bkil/freedom-fighters
@@ -107,6 +111,7 @@ But be careful ⚠️, not all websites are safe!
 - [feniljain/knowledge-base](https://github.com/feniljain/knowledge-base) - This is my personal collection and a one-stop place for everything I come across!
 - [jubilancy/jubilancy.github.io](https://github.com/jubilancy/jubilancy.github.io) - 
 - [jubilancy/quartz](https://github.com/jubilancy/quartz) - 
+- [fanteastick/quartz-test](https://github.com/fanteastick/quartz-test) - Personal website built with Quartz. It's green! quartz.eilleeenz.com
 - [QuentinRa/blog.quentinra.dev](https://github.com/QuentinRa/blog.quentinra.dev) - This repository is a collection of notes, links, tutorials, and experiences aimed at helping others. If you find it useful, please consider giving it a star ⭐ to keep me motivated.
 - [UglyWillDuckling/diamond-mine](https://github.com/UglyWillDuckling/diamond-mine) - 
 - [logicmoo/logicmoo_workspace](https://github.com/logicmoo/logicmoo_workspace) - https://jenkins.logicmoo.org/job/logicmoo_workspace https://logicmoo.org/xwiki/
@@ -125,6 +130,16 @@ But be careful ⚠️, not all websites are safe!
 ## Knowledge of Knowledge
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
+
+## Webrings
+***( https://brisray.com/web/webring-list.htm )***
+- [joejenett/bulltown](https://github.com/joejenett/bulltown) - bulltown.joejenett.com
+- [joejenett/iwebthings](https://github.com/joejenett/iwebthings) - i.webthings, an independent, noncommercial web initiative. iwebthings.joejenett.com
+- [baileylockheart/webmasterwebring](https://github.com/baileylockheart/webmasterwebring) - A webring for websites of all kinds! webmasterwebring.netlify.app
+- [rarelygoeshere/OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue) - A list of all the old-school sites I can find
+- [shaa-00/xp-sites](https://github.com/shaa-00/xp-sites) - Collection of the best sites to help you get around &gt;&lt; xp-sites.vercel.app
+- [scottaw66/scottwillsey](https://github.com/scottaw66/scottwillsey) - Git repo for ScottWillsey.com
+
 
 ## Website Templates
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -159,7 +174,11 @@ But be careful ⚠️, not all websites are safe!
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) - Distilled documents to assist
 - [TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) - Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [Jabri-web/Jabri-web.github.io](https://github.com/Jabri-web/Jabri-web.github.io) - Official website of Eng. Abdulla Al-Jabri | الموقع الرسمي م. عبدالله الجبري Research on Zx Function, Millennium Problems, and Theoretical Physics بحوث في دالة Zx ومسائل الألفية والفيزياء النظرية .....
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/ossinsight
+
+Family & Genealogy Resources
+- [gwern/gwern.net](https://github.com/gwern/gwern.net) - Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps,
 
 ## Cybersecurity Tools
 - [aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) - This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
@@ -216,6 +235,8 @@ But be careful ⚠️, not all websites are safe!
 - [Courage-1984/pixelated-pathways](https://github.com/Courage-1984/pixelated-pathways) - internet, guides, free, tools, legacy
 - [stnert/the-supreme-art-of-cyberwar](https://github.com/stnert/the-supreme-art-of-cyberwar) - Repository containing content about the supreme art of cyberwarfare in parallel dimensions: Surveillance, cybersecurity, and how privacy is a paradoxical concept nowadays.
 - [MMachado05/floss-alternatives](https://github.com/MMachado05/floss-alternatives) - A list of free/libre open-source software alternatives to popular proprietary softwares
+- [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - Website with comprehensive comparisons, histories, and other information across many areas of computing and technology. eylenburg.github.io
+- [tatsumoto-ren/tatsumoto-ren.github.io](https://github.com/tatsumoto-ren/tatsumoto-ren.github.io) - The best website in the world to learn Japanese. (tip: it actually contains guides in english)
 - [TeamStarWolf/TeamStarWolf](https://github.com/TeamStarWolf/TeamStarWolf) - GitHub profile README for TeamStarWolf. (tip: it actually contains resources)
 - [scottsweb/indieweb-boost](https://github.com/scottsweb/indieweb-boost) - ✅ Give your IndieWeb site a little boost.
 
@@ -269,6 +290,19 @@ But be careful ⚠️, not all websites are safe!
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal, GhostArchive & Intelligence X!
 
+## General Indie Websites
+- [alifeee/alifeee.net](https://github.com/alifeee/alifeee.net) - My website (tip: moved to git.alifeee.net/alifeee.net/about/ )
+- [thorri-lindal/thorri-lindal.github.io](https://github.com/thorri-lindal/thorri-lindal.github.io) - thorri-lindal.github.io
+- [fanteastick/quartz-test](https://github.com/fanteastick/quartz-test) - Personal website built with Quartz. It's green! quartz.eilleeenz.com
+- [zacharykai/personal](https://github.com/zacharykai/personal) - My personal site. zacharykai.net
+- [jacobdensford/cobb.land](https://github.com/jacobdensford/cobb.land) - My really cool website cobb.land
+- [petracoding/petrapixel.neocities.org](https://github.com/petracoding/petrapixel.neocities.org) - My Neocities website! petrapixel.neocities.org
+- [craftbeetle/craftbeetle.github.io](https://github.com/craftbeetle/craftbeetle.github.io) - The repo for craftbeetle.com (tip: he is also listed on the baccyflap.com/noai and websitesforpalestine.neocities.org webrings)
+- [ohhelloana/ohhelloana](https://github.com/ohhelloana/ohhelloana) - My personal blog ohhelloana.blog (tip: she is also listed on the ooh.directory/blogs/personal and xn--sr8hvo.ws/directory "IndieWeb" webrings)
+- [davepinch/pinchy.cc](https://github.com/davepinch/pinchy.cc) - pinchy.cc
+- [Phileosopher/toolbox](https://github.com/Phileosopher/toolbox) - A companion list of tools for my commonplacing stucky.tech/creations
+
+
 ## Discord
 - [DC-Resources-Wiki/Discord-Resources-Wiki](https://github.com/DC-Resources-Wiki/Discord-Resources-Wiki) - About Constantly updated list of the most useful Discord Resources.
 - [Wumpus-Central/discrapper-canary](https://github.com/Wumpus-Central/discrapper-canary) - Discord Datamining repository and scrapped chunks archive.
@@ -280,6 +314,7 @@ But be careful ⚠️, not all websites are safe!
 - [0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed) - TweetFeed collects Indicators of Compromise (IOCs) shared by the infosec community at Twitter. Here you will find malicious URLs, domains, IPs, and SHA256/MD5 hashes.
 - [Dorkside/scrap-hackernews-top](https://github.com/Dorkside/scrap-hackernews-top) - 
 - [nomi-sec/Hacker-Trends](https://github.com/nomi-sec/Hacker-Trends) - Trends Website (URL) from Twitter hackers.
+- [kherrick/hacker-news](https://github.com/kherrick/hacker-news) - Hacker News kherrick.github.io/hacker-news
 - [yuxiaopeng/hacker-news-summarizer](https://github.com/yuxiaopeng/hacker-news-summarizer) - 使用Google Gemini API，对hacker news Top100文章总结摘要并翻译成体中文，每日自动更新。
 - [pentester-io/commonspeak](https://github.com/pentester-io/commonspeak) - Content discovery wordlists generated using BigQuery
 
@@ -290,6 +325,7 @@ But be careful ⚠️, not all websites are safe!
 - [Uvacoder/uvacodernotes-4261](https://github.com/Uvacoder/uvacodernotes-4261) - 
 - [Statisticonomicon/VAULTSIDIAN](https://github.com/Statisticonomicon/VAULTSIDIAN) - My Daily Driver For Development Notes, Templates, Snippets and All Kinds of FCKRY.
 - [landoncrabtree/notes](https://github.com/landoncrabtree/notes) - Public repository of my Obsidian notes hosted via GitHub pages
+- [0xCAFEBABEx0/vault](https://github.com/0xCAFEBABEx0/vault) - 🧠 Complete Obsidian vault for Zettelkasten method with quick-start guides, templates, and 5-layer structure for effective knowledge management and note-taking.
 
 ## Lists of Starred Repositories
 - [paescuj/universe](https://github.com/paescuj/universe) - My god, it's full of stars.
@@ -320,6 +356,7 @@ But be careful ⚠️, not all websites are safe!
 - [visual-snow/everything-on-earth](https://github.com/visual-snow/everything-on-earth) - tell AI agents to massively crawl anything on earth
 - [xucongyong/top-websites](https://github.com/xucongyong/top-websites) - top-websites
 - [tech234a/annotation-urls](https://github.com/tech234a/annotation-urls) - URLs extracted from the YouTube annotations archive. See README.md for details.
+- [johnkavin123/domains](https://github.com/johnkavin123/domains) - 
 
 ## Writing Resources
 - [decal/werdlists](https://github.com/decal/werdlists) - :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases
@@ -328,6 +365,7 @@ But be careful ⚠️, not all websites are safe!
 
 ## Conflict & Humanitarian Support
 - [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine) - A curated list of Palestine and Palestinian-Israeli conflict resources.
+- [rscboy/eyes-on-palestine](https://github.com/rscboy/eyes-on-palestine) - echoesofgaza.org
 - [josefsbreakfast/Polaris-Protocol](https://github.com/josefsbreakfast/Polaris-Protocol) - Survivor-authored cybernetic knowledge architecture mapping containment across bodies, information, institutions, and power. An orientation system, teaching ecology, and long-horizon continuity projec
 - [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner) - Simply setup banner for websites to show support for Palestinians.
 - [UyCoder/2ndBrain](https://github.com/UyCoder/2ndBrain) - 
@@ -366,6 +404,7 @@ But be careful ⚠️, not all websites are safe!
 - [rockyflux/Bookmarks](https://github.com/rockyflux/Bookmarks) - 书签大全 |  按主题汇总高质量网站、工具与学习资料，帮助你在不同场景下快速起步、减少检索成本，并以可分享的 HTML/Markdown 形式沉淀到知识库中。
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
 - [xingwangzhe/FriendLinks](https://github.com/xingwangzhe/FriendLinks) - 探索浩瀚的博客宇宙，寻找彼此之间的联系。每个节点是一个博客，每条连线是一段友链关系。
+- [ttntm/bukmark.club](https://github.com/ttntm/bukmark.club) - A directory of websites from across the Internet.  To be eligible for a listing in this directory, a website must have a curated collection of bookmarks/links to other websites.
 - [gzbin365/map](https://github.com/gzbin365/map) - 算法 数学 科学。这是一个全网收藏夹; 一个备忘录; 一个To-Do List; 未来的技能点; 个人知识库; 也是一个算法工程师的网址导航．热爱生活, 不断探索．Have fun : )
 - [Arnon-hs/open-source](https://github.com/Arnon-hs/open-source) - AtlasRepo community catalog of promising open-source projects and practical solutions.
 
@@ -390,15 +429,24 @@ But be careful ⚠️, not all websites are safe!
 - [icopy-site/awesome](https://github.com/icopy-site/awesome) - collection of awesome lists
 
 ## AI Tools
+- [elmohq/elmo](https://github.com/elmohq/elmo) - Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite y
 - [tjnull/Ludus-FastMCP](https://github.com/tjnull/Ludus-FastMCP) - A Model Context Protocol (MCP) server for automating Ludus v1 and v2 cyber range environments through AI assistants. 190+ tools for range management, blueprints, groups, templates, scenarios, and SIEM
 - [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Sign
+- [fuzheado/Wikipedia-AI-Skills](https://github.com/fuzheado/Wikipedia-AI-Skills) - Experiments and files related to creating skills for AI in Wikipedia work
+- [antins-labs/SearchOS](https://github.com/antins-labs/SearchOS) - Schedule search agents the way an OS schedules processes.
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
 - [zhangqi444/open-forge](https://github.com/zhangqi444/open-forge) - Let your AI coding agent self-host any open-source app for you. 2,200+ verified recipes — provisioning, DNS, TLS, hardening. Works with Claude Code, Codex, Cursor, Aider, OpenClaw, Hermes.
 - [Amal-David/docingest](https://github.com/Amal-David/docingest) - Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents.
 
 ## Miscellaneous
 - [ivxvm/tha-game](https://github.com/ivxvm/tha-game) - Templar's Hollow Alpha (Game) arvel.itch.io/templars-hollow-alpha
+- [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos qsniyg.github.io/maxurl
+- [MathGeniusJodie/slopless](https://github.com/MathGeniusJodie/slopless) - a WIP search engine for the good web
+- [youtube/cobalt_sandbox](https://github.com/youtube/cobalt_sandbox) - Cobalt dev workflow sandbox - this repo exists only as a CI sandbox. Please see http://cobalt.dev and https://github.com/youtube/cobalt
 - [AlexandriaDAO/core](https://github.com/AlexandriaDAO/core) - 
 - [squaresLab/idioms](https://github.com/squaresLab/idioms) - 
+- [cloudplains/jnsj](https://github.com/cloudplains/jnsj) - 
+- [michele-lorenzoni/glimmervoid](https://github.com/michele-lorenzoni/glimmervoid) - 
 
 
 ## License
