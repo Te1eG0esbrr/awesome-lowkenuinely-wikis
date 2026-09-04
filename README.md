@@ -7,7 +7,8 @@ Big W for Uvacoder/uvacodernotes-4261 and jubilancy/jubilancy.github.io and lovm
 Also check out https://web.archive.org/web/20260130103652/https://github.com/whoisdsmith (he extended Killshot1337x/BOOKMRKS-MTHRFCKR and kept it updated but idk what happened to his github profile). Btw thank you guys for making those goated repos 🔥 and to github developers for the code search feature ❤️\
 Feel free to recommend repos by making an issue or a pull request 😄\
 Small tip: in youtube.com or inv.nadeko.net you can search for all playlists that contain specific videos (example: "video1" "video2" or even: "keyword1" "video1") and filter the results by playlists 📺\
-But be careful ⚠️, not all websites are safe!
+Another small tip: to get your repo indexed on code search, just search a word inside of your repo (on the web interface of github) and wait some time\
+But be careful ⚠️, not all websites and codes are safe!
 
 # Index
 
@@ -49,6 +50,7 @@ But be careful ⚠️, not all websites are safe!
 - [Data Crawlers & Scrapers & Analyzers](#data-crawlers--scrapers--analyzers)
 - [Writing Resources](#writing-resources)
 - [Conflict & Humanitarian Support](#conflict--humanitarian-support)
+- [Arab Resources](#arab-resources)
 - [RSS Resources](#rss-resources)
 - [Rare Wiki Archives](#rare-wiki-archives)
 - [Game Development & Reversing Resources](#game-development--reversing-resources)
@@ -69,8 +71,11 @@ But be careful ⚠️, not all websites are safe!
 - [imlauer/imlauer.github.io](https://github.com/imlauer/imlauer.github.io) - 
 - [bibanon/4chan.doc](https://github.com/bibanon/4chan.doc) - A decompiled version of ThrustVect's impressive 4chan.doc report, to Markdown and Mediawiki. Meant for eventual integration into the 4chan Chronicle (Wikibook).
 - [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。 More than 1700 open source tools for now. Post incoming.
+- [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking. www.ghostery.com/whotracksme
 - [bkil/freedom-fighters](https://github.com/bkil/freedom-fighters) - mirror of https://gitlab.com/bkil/freedom-fighters
 - [m1lkweed/nomad-guide](https://github.com/m1lkweed/nomad-guide) - A list of no-registration sites for digital nomads
+- [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet. lokinet.org
+- [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [AfnanBinAbbas/PrivaDB](https://github.com/AfnanBinAbbas/PrivaDB) - Every website ask about cookies if user allows or denies them, but IndexedDB has no popup, it's on by default, so sites quietly send your data to trackers. Our tool (using Project Foxhound) shows whic
 
 ## Blogs
@@ -82,6 +87,7 @@ But be careful ⚠️, not all websites are safe!
 - [twonfi/twonum.org](https://github.com/twonfi/twonum.org) - Personal website www.twonum.org
 - [ProbablyIdiot/probablysomething](https://github.com/ProbablyIdiot/probablysomething) - probablysomething.co.uk
 - [doqmeat/doqmeat.com](https://github.com/doqmeat/doqmeat.com) - repository of my personal website doqmeat.com
+- [tekerare/tekerare.github.io](https://github.com/tekerare/tekerare.github.io) - tekerare.github.io
 - [edideaur/edideaur.works](https://github.com/edideaur/edideaur.works) - edideaur.works
 - [w3teal/weblog.js](https://github.com/w3teal/weblog.js) - w3teal.is-a.dev
 
@@ -91,6 +97,7 @@ But be careful ⚠️, not all websites are safe!
 - [objtus/internet_aesthetics](https://github.com/objtus/internet_aesthetics) - 
 - [digipres/digipres.github.io](https://github.com/digipres/digipres.github.io) - Auto-generated static web site digipres.org
 - [SalviaSWC/FreeODwiki](https://github.com/SalviaSWC/FreeODwiki) - FreeODwiki, 人人都可以编辑的Overdose百科全书
+- [sxswz213/DeepSlides](https://github.com/sxswz213/DeepSlides) - (tip: check https://github.com/sxswz213/DeepSlides/tree/main/SlideDesign/topics )
 
 ## Cybersecurity Wikis
 - [Kicksecure/kicksecure-wiki-backup](https://github.com/Kicksecure/kicksecure-wiki-backup) - Static backup of the Kicksecure wiki
@@ -122,6 +129,8 @@ But be careful ⚠️, not all websites are safe!
 - [Sterophonick/atapi.space](https://github.com/Sterophonick/atapi.space) - i really do have a website now!
 - [codekiln/logseq-encode-garden](https://github.com/codekiln/logseq-encode-garden) - codekiln's knowledge garden
 - [c4ss1uslab/digitalgarden](https://github.com/c4ss1uslab/digitalgarden) - 
+- [jkf87/jkf87.github.io](https://github.com/jkf87/jkf87.github.io) - 
+- [deepaksood619/deepaksood619.github.io](https://github.com/deepaksood619/deepaksood619.github.io) - Deep Notes | Second Brain deepaksood619.github.io
 
 ## Digital Gardening Resources
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -139,7 +148,7 @@ But be careful ⚠️, not all websites are safe!
 - [rarelygoeshere/OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue) - A list of all the old-school sites I can find
 - [shaa-00/xp-sites](https://github.com/shaa-00/xp-sites) - Collection of the best sites to help you get around &gt;&lt; xp-sites.vercel.app
 - [scottaw66/scottwillsey](https://github.com/scottaw66/scottwillsey) - Git repo for ScottWillsey.com
-
+- [hedyhli/meta-ring](https://github.com/hedyhli/meta-ring) - A webring for personal websites with colophons, or meta pages. meta-ring.hedy.dev
 
 ## Website Templates
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -175,10 +184,15 @@ But be careful ⚠️, not all websites are safe!
 - [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) - Distilled documents to assist
 - [TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) - Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.
 - [Jabri-web/Jabri-web.github.io](https://github.com/Jabri-web/Jabri-web.github.io) - Official website of Eng. Abdulla Al-Jabri | الموقع الرسمي م. عبدالله الجبري Research on Zx Function, Millennium Problems, and Theoretical Physics بحوث في دالة Zx ومسائل الألفية والفيزياء النظرية .....
+- [uidaholib/mainweb-lib-uidaho](https://github.com/uidaholib/mainweb-lib-uidaho) - static web project to generate the University of Idaho Library website www.lib.uidaho.edu
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/ossinsight
 
 ## Family & Genealogy Resources
+- [theo-armour/genealogy](https://github.com/theo-armour/genealogy) - Repository for family Information. theo-armour.github.io/genealogy
+- [DavidEngland/genealogy](https://github.com/DavidEngland/genealogy) - Notes about family
+- [theo-armour/theo-armour.github.io](https://github.com/theo-armour/theo-armour.github.io) - Theo Armour GitHub home page
 - [gwern/gwern.net](https://github.com/gwern/gwern.net) - Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps,
+- [AnonCatalyst/Coeus-OSINT-ToolBox](https://github.com/AnonCatalyst/Coeus-OSINT-ToolBox) - Coeus 🌐 is an OSINT ToolBox empowering users with tools for effective intelligence gathering from open sources. From social media monitoring 📱 to data analysis 📊, it offers a centralized platform for
 
 ## Cybersecurity Tools
 - [aw-junaid/Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) - This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
@@ -207,6 +221,7 @@ But be careful ⚠️, not all websites are safe!
 - [mariosantella/osint-resources](https://github.com/mariosantella/osint-resources) - json-list-of-osint-resources
 - [tjnull/TJ-OSINT-Notebook](https://github.com/tjnull/TJ-OSINT-Notebook) - This OSINT Notebook provides an overview of the tools, techniques, and resources that I use for a variety of situations when it comes to performing reconaissance and OSINT operations.  This Notebook h
 - [Basset-Hound-OSINT/basset-hound](https://github.com/Basset-Hound-OSINT/basset-hound) - A BloodhoundAD-inspired tool for OSINT
+- [AnonCatalyst/Coeus-OSINT-ToolBox](https://github.com/AnonCatalyst/Coeus-OSINT-ToolBox) - Coeus 🌐 is an OSINT ToolBox empowering users with tools for effective intelligence gathering from open sources. From social media monitoring 📱 to data analysis 📊, it offers a centralized platform for
 - [elbraino/awesome-blackhat-arsenal](https://github.com/elbraino/awesome-blackhat-arsenal) - Curated collection of cybersecurity tools featured in Black Hat Arsenal events.
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal, GhostArchive & Intelligence X!
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
@@ -226,6 +241,7 @@ But be careful ⚠️, not all websites are safe!
 - [wdv4758h/notes](https://github.com/wdv4758h/notes) - let me know if my notes help you :D (it's a mess, I know)
 - [kitnil/notes](https://github.com/kitnil/notes) - My notes
 - [breadchris/notes](https://github.com/breadchris/notes) - Notes on things I think about.
+- [vishvAsa/notes](https://github.com/vishvAsa/notes) - vvasuki.github.io/notes
 
 ## Docs
 - [licyk/SDNote](https://github.com/licyk/SDNote) - 一个关于 AI 绘画的使用文档。
@@ -235,8 +251,10 @@ But be careful ⚠️, not all websites are safe!
 - [Courage-1984/pixelated-pathways](https://github.com/Courage-1984/pixelated-pathways) - internet, guides, free, tools, legacy
 - [stnert/the-supreme-art-of-cyberwar](https://github.com/stnert/the-supreme-art-of-cyberwar) - Repository containing content about the supreme art of cyberwarfare in parallel dimensions: Surveillance, cybersecurity, and how privacy is a paradoxical concept nowadays.
 - [MMachado05/floss-alternatives](https://github.com/MMachado05/floss-alternatives) - A list of free/libre open-source software alternatives to popular proprietary softwares
+- [runawaydevil/awesome-indieweb](https://github.com/runawaydevil/awesome-indieweb) - resources for indieweb (tip: also on source.tube/pmurad/awesome-indieweb )
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - Website with comprehensive comparisons, histories, and other information across many areas of computing and technology. eylenburg.github.io
 - [tatsumoto-ren/tatsumoto-ren.github.io](https://github.com/tatsumoto-ren/tatsumoto-ren.github.io) - The best website in the world to learn Japanese. (tip: it actually contains guides in english)
+- [Nahid-mahmud555/ai-data-engineering-roadmap](https://github.com/Nahid-mahmud555/ai-data-engineering-roadmap) - Building a production-grade local RAG pipeline and data engineering systems from scratch. Follow my hands-on daily roadmap, code architectures, and technical learnings.
 - [TeamStarWolf/TeamStarWolf](https://github.com/TeamStarWolf/TeamStarWolf) - GitHub profile README for TeamStarWolf. (tip: it actually contains resources)
 - [scottsweb/indieweb-boost](https://github.com/scottsweb/indieweb-boost) - ✅ Give your IndieWeb site a little boost.
 
@@ -268,6 +286,7 @@ But be careful ⚠️, not all websites are safe!
 - [viewlist-net/plushub](https://github.com/viewlist-net/plushub) - Your Ultimate High Rated Content Hub!
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
 - [piratarialink/megathread_pirata](https://github.com/piratarialink/megathread_pirata) - Esta megathread tem como objetivo atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.
+- [mkbaish4-debug/NetMegathread-Submissions](https://github.com/mkbaish4-debug/NetMegathread-Submissions) - It is the official repo to suggest and submit issues/links for NetMegathread.com project! netmegathread.com
 - [YousefMohsen0/OurServersWiki](https://github.com/YousefMohsen0/OurServersWiki) - Our Server's Discord Wiki
 - [markdevhub/markschron](https://github.com/markdevhub/markschron) - 
 - [steveyout/Freebies](https://github.com/steveyout/Freebies) - A collection of free things on the internet
@@ -284,6 +303,7 @@ But be careful ⚠️, not all websites are safe!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [selfhst/cdn](https://github.com/selfhst/cdn) - CDN repository for assets found on selfh.st
+- [luciano-veiga/homelab-monitoring](https://github.com/luciano-veiga/homelab-monitoring) - Laboratório de observabilidade estilo NOC/ISP: Prometheus, Grafana, Zabbix e monitoramento de rede (MikroTik via SNMP), com critérios de estabilidade, evidências reais e runbooks de troubleshooting do
 - [YunoHost/apps](https://github.com/YunoHost/apps) - YunoHost apps catalog
 
 ## Archiving Resources
@@ -296,10 +316,17 @@ But be careful ⚠️, not all websites are safe!
 - [fanteastick/quartz-test](https://github.com/fanteastick/quartz-test) - Personal website built with Quartz. It's green! quartz.eilleeenz.com
 - [zacharykai/personal](https://github.com/zacharykai/personal) - My personal site. zacharykai.net
 - [jacobdensford/cobb.land](https://github.com/jacobdensford/cobb.land) - My really cool website cobb.land
+- [madcampos/madcampos](https://github.com/madcampos/madcampos) - My personal site (tip: he is also listed on the a11y-webring.club webring)
 - [petracoding/petrapixel.neocities.org](https://github.com/petracoding/petrapixel.neocities.org) - My Neocities website! petrapixel.neocities.org
+- [arashnrim/garden](https://github.com/arashnrim/garden) - 🌿 My own digital garden, powered by Quartz. garden.arash.codes
+- [udrr/underwhite.neocities.org](https://github.com/udrr/underwhite.neocities.org) - repository for neocities, inspired by @doqmeat and @petracoding underwhite.neocities.org
 - [craftbeetle/craftbeetle.github.io](https://github.com/craftbeetle/craftbeetle.github.io) - The repo for craftbeetle.com (tip: he is also listed on the baccyflap.com/noai and websitesforpalestine.neocities.org webrings)
 - [ohhelloana/ohhelloana](https://github.com/ohhelloana/ohhelloana) - My personal blog ohhelloana.blog (tip: she is also listed on the ooh.directory/blogs/personal and xn--sr8hvo.ws/directory "IndieWeb" webrings)
 - [davepinch/pinchy.cc](https://github.com/davepinch/pinchy.cc) - pinchy.cc
+- [toritried/lostletters](https://github.com/toritried/lostletters) - personal website lostletters.neocities.org
+- [susam/susam.github.io](https://github.com/susam/susam.github.io) - Mirror of https://susam.net/ susam.github.io
+- [Darkwing14/IndieWeb](https://github.com/Darkwing14/IndieWeb) - An experimental project to try to be made by people, for people. I may drop stuff in occasionally. Also, Public Domain, go nuts. (tip: moved to indiedarkwing.neocities.org/home )
+- [Dynaknights/TWWSSiteREAL](https://github.com/Dynaknights/TWWSSiteREAL) - web-surfer.neocities.org
 - [Phileosopher/toolbox](https://github.com/Phileosopher/toolbox) - A companion list of tools for my commonplacing stucky.tech/creations
 
 
@@ -335,6 +362,7 @@ But be careful ⚠️, not all websites are safe!
 - [silentEAG/awesome-stars](https://github.com/silentEAG/awesome-stars) - My Awesome List
 - [Alberto12345678999/all_my_github_stars](https://github.com/Alberto12345678999/all_my_github_stars) - 
 - [shredthaGNAR/list-of-my-starred-repos](https://github.com/shredthaGNAR/list-of-my-starred-repos) - 
+- [fluteds/starred](https://github.com/fluteds/starred) - All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow and sorted in the project's language order
 - [Zaid-maker/my-awesome-stars-list](https://github.com/Zaid-maker/my-awesome-stars-list) - Discover hidden gems - a treasure trove of incredible GitHub repositories you won't want to miss.
 - [AriESQ/stars](https://github.com/AriESQ/stars) - Github Star Scraper
 
@@ -370,6 +398,12 @@ But be careful ⚠️, not all websites are safe!
 - [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner) - Simply setup banner for websites to show support for Palestinians.
 - [UyCoder/2ndBrain](https://github.com/UyCoder/2ndBrain) - 
 - [TechForPalestine/website](https://github.com/TechForPalestine/website) - Website for techforpalestine.org
+
+## Arab Resources
+***( https://democraticac.de/ )***
+***( https://brisray.com/web/webring-list.htm )***
+- [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship (tip: you can use it to look for popular websites in a country)
+- [azizktata/startup-radar](https://github.com/azizktata/startup-radar) -
 
 ## RSS Resources
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
@@ -442,9 +476,12 @@ But be careful ⚠️, not all websites are safe!
 - [ivxvm/tha-game](https://github.com/ivxvm/tha-game) - Templar's Hollow Alpha (Game) arvel.itch.io/templars-hollow-alpha
 - [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos qsniyg.github.io/maxurl
 - [MathGeniusJodie/slopless](https://github.com/MathGeniusJodie/slopless) - a WIP search engine for the good web
+- [R74nCom/R74n-Main](https://github.com/R74nCom/R74n-Main) - 
 - [youtube/cobalt_sandbox](https://github.com/youtube/cobalt_sandbox) - Cobalt dev workflow sandbox - this repo exists only as a CI sandbox. Please see http://cobalt.dev and https://github.com/youtube/cobalt
+- [apachecn/lifehacker-zh-pt1](https://github.com/apachecn/lifehacker-zh-pt1) - 
 - [AlexandriaDAO/core](https://github.com/AlexandriaDAO/core) - 
 - [squaresLab/idioms](https://github.com/squaresLab/idioms) - 
+- [kynoptic/wikipedia-reliable-sources](https://github.com/kynoptic/wikipedia-reliable-sources) - Two Brave Search Goggles designed to rerank search results based on the reliability of sources as determined by the Wikipedia community.
 - [cloudplains/jnsj](https://github.com/cloudplains/jnsj) - 
 - [michele-lorenzoni/glimmervoid](https://github.com/michele-lorenzoni/glimmervoid) - 
 
