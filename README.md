@@ -139,6 +139,7 @@ But be careful ⚠️, not all websites and codes are safe!
 ## Knowledge of Knowledge
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
+- [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - Hand-curated list of awesome and useful websites
 
 ## Webrings
 ***( https://brisray.com/web/webring-list.htm )***
@@ -167,6 +168,7 @@ But be careful ⚠️, not all websites and codes are safe!
 - [Ondrik8/exploit](https://github.com/Ondrik8/exploit) - 
 - [Aksheet10/Cyber-Security-Resources](https://github.com/Aksheet10/Cyber-Security-Resources) - I have collected many Free Resources. Feel free share more resources
 - [lw8192/Red-Team-Rising](https://github.com/lw8192/Red-Team-Rising) - Notes for red teamers - from cloud to Active Directory to many things in between.
+- [4nuit/Hacking](https://github.com/4nuit/Hacking) - Just a few more hacking notes, techniques and tools
  
 ## Awesome Lists about Cybersecurity
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
